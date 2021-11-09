@@ -1,0 +1,13 @@
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.exe
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.deps.json
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.runtimeconfig.json
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.runtimeconfig.dev.json
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.dll
+D:\Aztu-P202\IndexerCasting\IndexerCasting\bin\Debug\netcoreapp3.1\IndexerCasting.pdb
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.csprojAssemblyReference.cache
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.AssemblyInfoInputs.cache
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.AssemblyInfo.cs
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.csproj.CoreCompileInputs.cache
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.dll
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.pdb
+D:\Aztu-P202\IndexerCasting\IndexerCasting\obj\Debug\netcoreapp3.1\IndexerCasting.genruntimeconfig.cache
